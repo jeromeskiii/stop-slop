@@ -19,10 +19,21 @@ stop-slop/
 │   └── examples.md       # Before/after transformations
 ├── scripts/
 │   └── verify.sh         # Structural verification
+├── plans/                # Audit plans (improve skill), executed
 ├── CHANGELOG.md
 ├── README.md
 └── LICENSE
 ```
+
+## Verify
+
+```bash
+bash scripts/verify.sh
+```
+
+Checks frontmatter, reference links, quick-check coverage against the
+reference files, and that the skill's own prose follows its own rules.
+Ends with `verify: OK`.
 
 ## Quick start
 

@@ -10,8 +10,8 @@ worktrees and **merging stays with the maintainer**.
 
 | Plan | Title | Priority | Effort | Depends on | Status |
 |------|-------|----------|--------|------------|--------|
-| 001  | Make every "After" example comply with the rules it demonstrates | P1 | S | — | DONE (worktree `executor/plan-001`, reviewed & approved, pending merge) |
-| 002  | Add a structural verification script and close the rule drift it catches | P1 | M | 001 | DONE (worktree `executor/plan-002`, negative test observed, pending merge) |
+| 001  | Make every "After" example comply with the rules it demonstrates | P1 | S | — | DONE (merged to main, `ccbdebb`) |
+| 002  | Add a structural verification script and close the rule drift it catches | P1 | M | 001 | DONE (merged to main, `ccbdebb`) |
 
 Status values: TODO | IN PROGRESS | DONE | BLOCKED (one-line reason) | REJECTED (one-line rationale)
 

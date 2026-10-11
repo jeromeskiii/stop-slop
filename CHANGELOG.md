@@ -21,9 +21,13 @@
   backing the "Three consecutive sentences match length" quick check.
 
 **Docs (README.md, SKILL.md)**
-- README Skill Structure tree now complete: scripts/verify.sh and
-  CHANGELOG.md listed.
+- README Skill Structure tree now complete: scripts/verify.sh,
+  CHANGELOG.md, and plans/ listed, plus a Verify section.
 - Frontmatter `license: MIT` added to SKILL.md.
+
+**Plans (plans/)**
+- Recorded the improve-skill audit plans (001, 002) that produced the
+  changes above; both executed via executor worktrees and reviewed.
 
 ## 2026-01-13
 
