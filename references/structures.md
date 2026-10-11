@@ -125,6 +125,7 @@ Wh- openers become a crutch. "What makes this hard is..." becomes "The constrain
 | Em-dashes | Remove. Use commas or periods. No em dashes at all. |
 | Staccato fragmentation | Don't stack short punchy sentences |
 | "Not always. Not perfectly." | Hedging disguised as reassurance |
+| Three consecutive sentences of matching length | Break one; vary the lengths |
 
 ## Word Patterns
 

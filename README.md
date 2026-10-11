@@ -17,6 +17,9 @@ stop-slop/
 │   ├── phrases.md        # Phrases to remove
 │   ├── structures.md     # Structural patterns to avoid
 │   └── examples.md       # Before/after transformations
+├── scripts/
+│   └── verify.sh         # Structural verification
+├── CHANGELOG.md
 ├── README.md
 └── LICENSE
 ```

@@ -6,9 +6,9 @@
 > "Here's the thing: building products is hard. Not because the technology is complex. Because people are complex. Let that sink in."
 
 **After:**
-> "Building products is hard. Technology is manageable. People aren't."
+> "Building products is hard. The technology is manageable; people are not."
 
-**Changes:** Removed opener, binary contrast structure, and emphasis crutch. Direct statements.
+**Changes:** Direct statements; two sentences of different length; complete clauses.
 
 ---
 
@@ -18,9 +18,9 @@
 > "It turns out that most teams struggle with alignment. The uncomfortable truth is that nobody wants to admit they're confused. And that's okay."
 
 **After:**
-> "Teams struggle with alignment. Nobody admits confusion."
+> "Teams struggle with alignment. Few leaders admit it."
 
-**Changes:** Cut hedging ("most"), removed throat-clearing phrases, deleted permission-granting ending.
+**Changes:** Cut hedging, removed throat-clearing, named the actor instead of the disembodied observer.
 
 ---
 
@@ -42,9 +42,9 @@
 > "Speed. Quality. Cost. You can only pick two. That's it. That's the tradeoff."
 
 **After:**
-> "Speed, quality, cost—pick two."
+> "Of speed, quality, and cost, you can pick two."
 
-**Changes:** Single sentence. No performative emphasis.
+**Changes:** Complete sentence, no em dash, no performative emphasis.
 
 ---
 
